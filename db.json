@@ -25,9 +25,8 @@
     { "id": 1, "body": "Inbox 0", "postId": 1 },
     { "id": 2, "body": "Inbox 1", "postId": 1 }
   ],
-  "Trash": [
-    { "id": 1, "body": "Trash 0", "postId": 1 },
-    { "id": 2, "body": "Trash 1", "postId": 1 }
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
 
