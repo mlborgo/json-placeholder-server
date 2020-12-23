@@ -21,10 +21,6 @@
     { "id": 1, "body": "Archived 1", "postId": 1 },
     { "id": 2, "body": "Archived 2", "postId": 1 }
   ],
-  "Inbox": [
-    { "id": 1, "body": "Inbox 0", "postId": 1 },
-    { "id": 2, "body": "Inbox 1", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
