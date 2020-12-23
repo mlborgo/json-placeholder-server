@@ -1,14 +1,32 @@
-[
 {
-  "id": 1,
-  "firstname": "Juan",
-  "lastname": "Perez",
-  "genre": "Masculino"
+  "users": [
+              {
+                "id": 1,
+                "firstname": "Juan",
+                "lastname": "Perez",
+                "genre": "Masculino"
+              }
+              ,{
+                "id": 2,
+                "firstname": "Maria",
+                "lastname": "Lopez",
+                "genre": "Femenino"
+              }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "clients": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "providers": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-,{
-  "id": 2,
-  "firstname": "Maria",
-  "lastname": "Lopez",
-  "genre": "Femenino"
-}
-]
+
