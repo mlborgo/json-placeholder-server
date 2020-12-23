@@ -29,10 +29,6 @@
     { "id": 1, "body": "Trash 0", "postId": 1 },
     { "id": 2, "body": "Trash 1", "postId": 1 }
   ],
-  "Spam": [
-    { "id": 1, "body": "Spam 0", "postId": 1 },
-    { "id": 2, "body": "Spam 1", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
