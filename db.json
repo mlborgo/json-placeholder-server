@@ -14,16 +14,24 @@
               }
   ],
   "Favorites": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Favorites 1", "postId": 1 },
+    { "id": 2, "body": "Favorites 2", "postId": 1 }
   ],
   "Archived": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Archived 1", "postId": 1 },
+    { "id": 2, "body": "Archived 2", "postId": 1 }
   ],
   "Inbox": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Inbox 0", "postId": 1 },
+    { "id": 2, "body": "Inbox 1", "postId": 1 }
+  ],
+  "Trash": [
+    { "id": 1, "body": "Trash 0", "postId": 1 },
+    { "id": 2, "body": "Trash 1", "postId": 1 }
+  ],
+  "Spam": [
+    { "id": 1, "body": "Spam 0", "postId": 1 },
+    { "id": 2, "body": "Spam 1", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
