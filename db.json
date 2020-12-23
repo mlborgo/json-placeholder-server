@@ -1,0 +1,14 @@
+[
+{
+  "id": 1,
+  "firstname": "Juan",
+  "lastname": "Perez",
+  "genre": "Masculino"
+}
+,{
+  "id": 2,
+  "firstname": "Maria",
+  "lastname": "Lopez",
+  "genre": "Femenino"
+}
+]
