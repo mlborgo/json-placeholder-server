@@ -1,5 +1,5 @@
 {
-  "users": [
+  "Outbox": [
               {
                 "id": 1,
                 "firstname": "Juan",
@@ -13,15 +13,15 @@
                 "genre": "Femenino"
               }
   ],
-  "comments": [
+  "Favorites": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "clients": [
+  "Archived": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "providers": [
+  "Inbox": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
